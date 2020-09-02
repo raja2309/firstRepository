@@ -28,6 +28,7 @@ public class StudentRunner {
 
 		student.removeMarkAtIndex(1);
 		System.out.println(student);
+		System.out.println("edited for fit");
 	}
 
 
